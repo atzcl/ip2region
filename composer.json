@@ -1,0 +1,13 @@
+{
+    "name": "atzcl/ip2region",
+    "description": "php-ip2region",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "Ip2Region.php"
+        ]
+    }
+}
