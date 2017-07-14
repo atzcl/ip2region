@@ -1,6 +1,8 @@
 {
     "name": "atzcl/ip2region",
+    "type": "library",
     "description": "php-ip2region",
+    "homepage": "https://github.com/atzcl/ip2region",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.3"
